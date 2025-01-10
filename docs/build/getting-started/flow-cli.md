@@ -41,7 +41,6 @@ You'll also be asked if you'd like to install any core contracts (such as `Fungi
 
 The `init` command will create a new directory with the project name and the following files:
 
-- `flow.json`: This file contains the configuration for your project.
 - `emulator-account.pkey`: This file contains the private key for the default emulator account.
 - `flow.json`: This file contains the configuration for your project.
 - `cadence/`: This directory contains your Cadence code. Inside there are subdirectories for contracts, scripts, transactions, and tests.
